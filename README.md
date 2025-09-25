@@ -4,8 +4,8 @@
 Se desarrolla y construye un módulo de bajo costo para realizar experiencias practicas de control digital. El control del sistema se realizo usando Arduino y la temperatura se midió usando un TMP36.
 
 ## 📂 Contenido
-- `/hardware` → esquemático, PCB, Gerbers.
-- `/firmware` → código en C para Arduino.
+- `/Hardware` → esquemático, PCB, Gerbers.
+- `/Code` → código en C para Arduino.
 - `/docs` → fotos.
 
 ## 📸 Vista previa
