@@ -5,7 +5,7 @@ Se desarrolla y construye un módulo de bajo costo para realizar experiencias pr
 
 ## 📂 Contenido
 - `/Hardware` → esquemático, PCB, Gerbers.
-- `/Code` → código en C para Arduino.
+- `/control_temp_LC` → código en C para Arduino.
 - `/docs` → fotos.
 
 ## 📸 Vista previa
