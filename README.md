@@ -12,5 +12,4 @@ Se desarrolla y construye un módulo de bajo costo para realizar experiencias pr
 ![PCB Render](docs/esquema_control.png)
 
 ## 📜 Licencias
-- Hardware → CERN OHL-P v2  
 - Firmware → MIT License  
