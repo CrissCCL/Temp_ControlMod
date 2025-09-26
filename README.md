@@ -19,7 +19,7 @@ It provides a simple and practical platform for learning control theory in a lab
 
 ## 📐 Digital PID Control
 
-The Module uses a discrete PI controller implemented on a Teensy microcontroller.  
+The Module uses a discrete PI controller implemented on a Arduino microcontroller.  
 The control law in the digital domain is expressed as:
 
 $$
