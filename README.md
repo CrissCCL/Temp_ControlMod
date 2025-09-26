@@ -9,15 +9,21 @@ Se desarrolla y construye un módulo de bajo costo para realizar experiencias pr
 - `/docs` → fotos.
 
 # 🔄 Lazo de Control
-<img src="docs/esquema_control.png" alt="Diagrama sistema" width="500">
+<p align="center">
+<img src="docs/esquema control temp.png" alt="Diagrama sistema" width="500">
+</p>
 ## 🖼️ Render 3D PCB
+<p align="center">
 <img src="docs/procesotemp.png" alt="PCB Render" width="500">
-
+</p>
 ---
 
 ## ⚡ Prototipo físico
+<p align="center">
 <img src="docs/armado.jpg" alt="Foto del prototipo" width="400">
+</p>
+<p align="center">
 <img src="docs/setup_completo.jpg" alt="Foto del prototipo" width="400">
-
+</p>
 ## 📜 Licencias
 - Firmware → MIT License  
