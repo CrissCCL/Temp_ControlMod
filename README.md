@@ -10,6 +10,7 @@ Se desarrolla y construye un módulo de bajo costo para realizar experiencias pr
 
 ## 📸 Vista previa
 ![PCB Render](docs/esquema_control.png)
+![setup](docs/armado.jpg)
 
 ## 📜 Licencias
 - Firmware → MIT License  
