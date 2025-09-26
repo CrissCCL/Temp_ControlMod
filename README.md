@@ -28,4 +28,4 @@ Se desarrolla y construye un módulo de bajo costo para realizar experiencias pr
 </p>
 
 ## 📜 Licencias
-- Firmware → MIT License  
+MIT License  
