@@ -8,9 +8,14 @@ Se desarrolla y construye un módulo de bajo costo para realizar experiencias pr
 - `/control_temp_LC` → código en C para Arduino.
 - `/docs` → fotos.
 
-## 📸 Vista previa
-![PCB Render](docs/esquema_control.png)
-![setup](docs/armado.jpg)
-![setup_full](docs/setup_completo.jpg)
+## 🖼️ Render 3D PCB
+<img src="docs/esquema_control.png" alt="PCB Render" width="500">
+
+---
+
+## ⚡ Prototipo físico
+<img src="docs/armado.jpg" alt="Foto del prototipo" width="400">
+<img src="docs/setup_completo.jpg" alt="Foto del prototipo" width="400">
+
 ## 📜 Licencias
 - Firmware → MIT License  
