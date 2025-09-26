@@ -1,7 +1,9 @@
 # 🚀 Temperature Control Module
 
-## 📖 Description
-A low-cost module was developed and built to perform practical experiments in Digital Control. The system control was implemented using an Arduino, heat transfer was managed using a TIP31C transistor, and temperature was measured with a TMP36 sensor.
+## 📖 Overview
+This low-cost module was designed and built to perform hands-on experiments in Digital Control. The system is controlled using an Arduino, heat is modulated with a TIP31C transistor, and temperature is measured using a TMP36 sensor.  
+
+It provides a simple and practical platform for learning control theory in a laboratory environment.
 
 ## 📂 Contents
 - `/Hardware` → schematic, PCB, Gerbers.
