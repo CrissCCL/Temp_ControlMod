@@ -1,14 +1,14 @@
-# 🚀 Módulo control de temperatura
+# 🚀 Temperature Control Module
 
-## 📖 Descripción
-Se desarrolla y construye un módulo de bajo costo para realizar experiencias prácticas de Control Digital. El control del sistema se realizó usando Arduino, la transferencia de calor se realizó usando un transistor TIP31C y la temperatura se midió usando un TMP36.
+## 📖 Description
+A low-cost module was developed and built to perform practical experiments in Digital Control. The system control was implemented using an Arduino, heat transfer was managed using a TIP31C transistor, and temperature was measured with a TMP36 sensor.
 
-## 📂 Contenido
-- `/Hardware` → esquemático, PCB, Gerbers.
-- `/control_temp_LC` → código en C para Arduino.
-- `/docs` → fotos.
+## 📂 Contents
+- `/Hardware` → schematic, PCB, Gerbers.
+- `/control_temp_LC` → C code for Arduino.
+- `/docs` → photos.
 
-## 🔄 Lazo de Control
+## 🔄 Control Loop
 <p align="center">
 <img src="docs/esquema control temp.png" alt="Diagrama sistema" width="500">
 </p>
@@ -19,7 +19,7 @@ Se desarrolla y construye un módulo de bajo costo para realizar experiencias pr
 </p>
 ---
 
-## ⚡ Prototipo físico
+## ⚡ Physical Prototype
 <p align="center">
 <img src="docs/armado.jpg" alt="Foto del prototipo" width="400">
 </p>
@@ -27,5 +27,5 @@ Se desarrolla y construye un módulo de bajo costo para realizar experiencias pr
 <img src="docs/setup_completo.jpg" alt="Foto del prototipo" width="400">
 </p>
 
-## 📜 Licencias
+## 📜 License
 MIT License  
