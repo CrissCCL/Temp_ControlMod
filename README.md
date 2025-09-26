@@ -1,21 +1,23 @@
-# 🚀 Temperature Control Module
+# 🚀 Temperature Control Module V2
 
 ## 📖 Overview
 This low-cost module was designed and built to perform hands-on experiments in Digital Control. The system is controlled using an Arduino, heat is modulated with a TIP31C transistor, and temperature is measured using a TMP36 sensor.  
 
 It provides a simple and practical platform for learning control theory in a laboratory environment.
 
+> ⚠️ **Note:** This project is currently under updates. Features and hardware are subject to change.
+
 ## 📂 Contents
 - `/Hardware` → schematic, PCB, Gerbers.
 - `/control_temp_LC` → C code for Arduino.
-- `/docs` → photos.
+- `/docs` → photos
 
 ## 🔄 Control Loop
 <p align="center">
 <img src="docs/esquema control temp.png" alt="Diagrama sistema" width="500">
 </p>
 
-## 🖼️ Render 3D PCB
+## 🖼️ Render 3D PCB Version 2
 <p align="center">
 <img src="docs/procesotemp.png" alt="PCB Render" width="500">
 </p>
