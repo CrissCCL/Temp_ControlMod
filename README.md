@@ -17,6 +17,28 @@ It provides a simple and practical platform for learning control theory in a lab
 <img src="docs/esquema control temp.png" alt="Diagrama sistema" width="500">
 </p>
 
+## 📐 Digital PID Control
+
+The Module uses a discrete PI controller implemented on a Teensy microcontroller.  
+The control law in the digital domain is expressed as:
+
+$$
+u(n) = u(n-1) + K_0 e(n) + K_1 e(n-1)
+$$
+
+$$
+u_{PWM}(n) = u_{PWM}(n-1) + K_0 e(n) + K_1 e(n-1)
+$$
+### Parameters:
+
+$$
+K_0 = K_p + \frac{K_p}{2T_i} T_s
+$$
+
+$$
+K_1 = -K_p + \frac{K_p}{2T_i} T_s
+$$
+
 ## 🖼️ Render 3D PCB Version 2
 <p align="center">
 <img src="docs/procesotemp.png" alt="PCB Render" width="500">
