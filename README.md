@@ -1,4 +1,4 @@
-# 🚀 Modulo control de temperatura
+# 🚀 Módulo control de temperatura
 
 ## 📖 Descripción
 Se desarrolla y construye un módulo de bajo costo para realizar experiencias prácticas de Control Digital. El control del sistema se realizó usando Arduino, la transferencia de calor se realizó usando un transistor TIP31C y la temperatura se midió usando un TMP36.
