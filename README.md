@@ -1,4 +1,4 @@
-# 🚀 Temperature Control Module V2
+# 🚀 Temperature Control Module
 
 ## 📖 Overview
 This low-cost module was designed and built to perform hands-on experiments in Digital Control. The system is controlled using an Arduino, heat is modulated with a TIP31C transistor, and temperature is measured using a TMP36 sensor.  
