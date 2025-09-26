@@ -30,7 +30,7 @@ u(n) = u(n-1) + K_0 e(n) + K_1 e(n-1)
 $$
 
 $$
-u_{PWM}(n) = u_{PWM}(n-1) + K_0 e(n) + K_1 e(n-1)
+V_{PWM}(n) = V_{PWM}(n-1) + K_0 e(n) + K_1 e(n-1)
 $$
 ### Parameters:
 
