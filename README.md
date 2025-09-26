@@ -17,6 +17,9 @@ It provides a simple and practical platform for learning control theory in a lab
 <img src="docs/esquema control temp.png" alt="Diagrama sistema" width="500">
 </p>
 
+### Controlled Variables
+- **Temperature** → Temperature value control (stabilization)
+
 ## 📐 Digital PID Control
 
 The Module uses a discrete PI controller implemented on a Arduino microcontroller.  
