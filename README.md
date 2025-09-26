@@ -8,8 +8,10 @@ Se desarrolla y construye un módulo de bajo costo para realizar experiencias pr
 - `/control_temp_LC` → código en C para Arduino.
 - `/docs` → fotos.
 
+# 🔄 Lazo de Control
+<img src="docs/esquema_control.png" alt="Diagrama sistema" width="500">
 ## 🖼️ Render 3D PCB
-<img src="docs/esquema_control.png" alt="PCB Render" width="500">
+<img src="docs/procesotemp.png" alt="PCB Render" width="500">
 
 ---
 
