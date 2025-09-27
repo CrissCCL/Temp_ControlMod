@@ -29,10 +29,12 @@ $$
 u(n) = u(n-1) + K_0 e(n) + K_1 e(n-1)
 $$
 
+Digital PI controller implemented for temparuture measured,
 $$
 V_{PWM}(n) = V_{PWM}(n-1) + K_0 e(n) + K_1 e(n-1)
 $$
 ### Parameters:
+The parameters are adjusted for temperature measured,
 
 $$
 K_0 = K_p + \frac{K_p}{2T_i} T_s
@@ -46,7 +48,6 @@ $$
 <p align="center">
 <img src="docs/procesotemp.png" alt="PCB Render" width="500">
 </p>
----
 
 ## ⚡ Physical Prototype
 <p align="center">
