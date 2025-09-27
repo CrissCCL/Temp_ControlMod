@@ -29,7 +29,7 @@ $$
 u(n) = u(n-1) + K_0 e(n) + K_1 e(n-1)
 $$
 
-Digital PI controller implemented for temparuture measured,
+Digital PI controller implemented for temperature measured,
 
 $$
 V_{PWM}(n) = V_{PWM}(n-1) + K_0 e(n) + K_1 e(n-1)
