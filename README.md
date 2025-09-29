@@ -46,6 +46,21 @@ $$
 K_1 = -K_p + \frac{K_p}{2T_i} T_s
 $$
 
+## 🔉 Signal Processing: Low-Pass IIR Filter (1st Order)
+
+To reduce measurement noise, a **first-order IIR low-pass filter** was applied to the temperature signal before feeding it to the controller and the ARX model.  
+
+### 🔹 Filter Equation  
+
+$$
+y(k) = \alpha \, x(k) + (1 - \alpha) \, y(k-1)
+$$  
+
+Where:  
+- $$x(k)$$: raw sensor measurement at time step $$ k $$  
+- $$y(k)$$: filtered output  
+-$$\alpha$$: smoothing factor, $$( 0 < \alpha < 1) $$ 
+
 
 ## 🧪 PI Control Test and ARX Model Comparison  
 
