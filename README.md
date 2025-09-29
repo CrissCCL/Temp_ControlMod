@@ -57,9 +57,9 @@ y(k) = \alpha \cdot x(k) + (1 - \alpha) \cdot y(k-1)
 $$  
 
 Where:  
-- $$x(k)$$: raw sensor measurement at time step $$ k $$  
+- $$x(k)$$: raw sensor measurement at time step $$k$$  
 - $$y(k)$$: filtered output  
-- $$\alpha$$: smoothing factor, $$(0<\alpha<1) $$ 
+- $$\alpha$$: smoothing factor, $$(0<\alpha<1)$$ 
 
 
 ## 🧪 PI Control Test and ARX Model Comparison  
