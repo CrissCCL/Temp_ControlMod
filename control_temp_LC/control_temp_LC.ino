@@ -9,7 +9,7 @@ float a=0.9391; // parametro filtro IIR
 float ref=30.0;  //Referencia temperatura
 float u=0.0,u_1=0.0;//Se_al de control
 float e=0.0,e_1=0.0;// error resp
-float K0=18.004,K1=-17.9773; //parametros control PI discreto
+float K0=7.6634,K1=-7.6488; //parametros control PI discreto
 float tiempo=0;
 void setup() {
   Serial1.begin(57600);
