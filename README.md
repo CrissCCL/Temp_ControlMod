@@ -92,10 +92,6 @@ Where:
 ### 🔹 Experimental Plots  
 
 <p align="center">
-<img src="docs/controlSim_Exp.png" alt="ARX vs Experimental Comparison (Temperature)" width="500">
-</p>
-
-<p align="center">
 <img src="docs/controlSim_Exp2.png" alt="ARX vs Experimental Comparison (Temperature)" width="500">
 </p>
 
