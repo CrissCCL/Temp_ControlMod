@@ -107,11 +107,11 @@ Where:
   <tr>
     <td align="center">
       <img src="docs/armado.jpg" alt="Foto del prototipo" width="400"><br>
-      <sub>Device — front</sub>
+      <sub>Device connections</sub>
     </td>
     <td align="center">
       <img src="docs/setup_completo.jpg" alt="Foto del prototipo" width="400"><br>
-      <sub>Device — back</sub>
+      <sub>Complete setup</sub>
     </td>
   </tr>
 </table>
