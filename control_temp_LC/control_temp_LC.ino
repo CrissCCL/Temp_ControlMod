@@ -15,7 +15,7 @@ void setup() {
   Serial1.begin(57600);
   //Serial.begin(38400);
   pinMode(Pin, OUTPUT);
-  ref=(float(analogRead(Tmed))*3.3/1023.0-0.5)/0.01;
+  ref=(float(analogRead(A0))*3.3/1023.0-0.5)/0.01;
   LoopTimer=micros();
 }
 
