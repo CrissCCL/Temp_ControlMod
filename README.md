@@ -101,7 +101,7 @@ The graphical user interface (GUI) shown in the photograph is developed using **
 It is designed **only for monitoring** the temperature module in real time and for **recording experimental data**.  
 
 <p align="center">
-<img src="docs/GUI.png" alt="GUI preview" width="500">
+<img src="docs/GUI.jpg" alt="GUI preview" width="500">
 </p>
 
 Key features:
