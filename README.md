@@ -95,6 +95,22 @@ Where:
 <img src="docs/controlSim_Exp2.png" alt="ARX vs Experimental Comparison (Temperature)" width="500">
 </p>
 
+## 🖥️ GUI — Monitoring and Data Logging
+
+The graphical user interface (GUI) shown in the photograph is developed using **Processing 4**.  
+It is designed **only for monitoring** the temperature module in real time and for **recording experimental data**.  
+
+<p align="center">
+<img src="docs/GUI.png" alt="GUI preview" width="500">
+</p>
+
+Key features:
+- Real-time plot of temperature and setpoint.
+- Display of control output (PWM or equivalent).
+- Logging of measurements to files for offline analysis.
+- Simple visualization of system behavior during experiments.
+
+> ⚠️ **Note:** The GUI is for observation and data recording only; it does **not** modify the control system or send commands to the hardware.
 
 ## 🖼️ Render 3D PCB Version 2
 <p align="center">
