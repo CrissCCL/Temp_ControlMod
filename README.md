@@ -111,6 +111,7 @@ Key features:
 - Simple visualization of system behavior during experiments.
 
 > ⚠️ **Note:** The GUI is for observation and data recording only; it does **not** modify the control system or send commands to the hardware.
+
 > ⚠️ **Status:** Work In Progress — the GUI is being actively developed and will be added to the repository once sufficiently stable.
 
 
