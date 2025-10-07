@@ -124,7 +124,7 @@ Key features:
       <sub>PCB Render - Version 2</sub>
     </td>
     <td align="center">
-      <img src="docs/setup_completo2.jpg" alt="FPCB Render - Version 3" width="400"><br>
+      <img src="docs/procesotemp2.png" alt="FPCB Render - Version 3" width="400"><br>
       <sub>PCB Render - Version 3</sub>
     </td>
   </tr>
