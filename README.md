@@ -24,8 +24,8 @@ It provides a simple and practical platform for learning control theory in a lab
 | Processing 4 GUI (Monitoring & Logging) | ⚙️ In Progress |
 |  PCB Design with Improved Measurement Stability  | ⚙️ In Progress |
 
-> The project now features a Processing 4 graphical interface that replaces the previous MATLAB-based monitoring, data recording and data logging system.  
-> This new GUI allows real-time temperature monitoring and data recording, alongside the ongoing development of a custom PCB to improve measurement stability and reduce signal noise.
+> 💻 The project now features a Processing 4 graphical interface that replaces the previous MATLAB-based monitoring, data recording and data logging system.  
+> 🔧 This new GUI allows real-time temperature monitoring and data recording, alongside the ongoing development of a custom PCB to improve measurement stability and reduce signal noise.
 
 
 ## 🔄 Control Loop
@@ -140,7 +140,7 @@ Key features:
       <sub>PCB Render - Version 2</sub>
     </td>
     <td align="center">
-      <img src="docs/procesotemp2.png" alt="FPCB Render - Version 3" width="500"><br>
+      <img src="docs/procesotemp2.png" alt="FPCB Render - Version 3" width="600"><br>
       <sub>PCB Render - Version 3 - Next update </sub>
     </td>
   </tr>
