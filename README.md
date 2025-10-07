@@ -136,7 +136,7 @@ Key features:
 <table>
   <tr>
     <td align="center">
-      <img src="docs/procesotemp.png" alt="PCB Render - Version 2" width="500">
+      <img src="docs/procesotemp.png" alt="PCB Render - Version 2" width="550">
       <sub>PCB Render - Version 2</sub>
     </td>
     <td align="center">
