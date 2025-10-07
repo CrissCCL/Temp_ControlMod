@@ -116,9 +116,6 @@ Key features:
 
 
 ## 🖼️ Render 3D PCB 
-<p align="center">
-<img src="docs/procesotemp.png" alt="PCB Render - Version 2" width="500">
-</p>
 
 <table>
   <tr>
@@ -128,7 +125,7 @@ Key features:
     </td>
     <td align="center">
       <img src="docs/setup_completo2.jpg" alt="FPCB Render - Version 3" width="400"><br>
-      <sub>PCB Render - Version 2</sub>
+      <sub>PCB Render - Version 3</sub>
     </td>
   </tr>
 </table>
