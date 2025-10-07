@@ -115,10 +115,23 @@ Key features:
 > ⚠️ **Status:** Work In Progress — the GUI is being actively developed and will be added to the repository once sufficiently stable.
 
 
-## 🖼️ Render 3D PCB Version 2
+## 🖼️ Render 3D PCB 
 <p align="center">
-<img src="docs/procesotemp.png" alt="PCB Render" width="500">
+<img src="docs/procesotemp.png" alt="PCB Render - Version 2" width="500">
 </p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/procesotemp.png" alt="PCB Render - Version 2" width="500">
+      <sub>PCB Render - Version 2</sub>
+    </td>
+    <td align="center">
+      <img src="docs/setup_completo2.jpg" alt="FPCB Render - Version 3" width="400"><br>
+      <sub>PCB Render - Version 2</sub>
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Physical Prototype
 
