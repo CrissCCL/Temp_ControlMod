@@ -12,6 +12,21 @@ It provides a simple and practical platform for learning control theory in a lab
 - `/control_temp_LC` → C code for Arduino.
 - `/docs` → photos
 
+## 📊 Project Status
+
+| Component | Status |
+|------------|--------|
+| Temperature Sensor Interface | ✅ Completed |
+| Signal Filtering and Smoothing | ✅ Completed |
+| PID Control Implementation | ✅ Completed |
+| Migration from MATLAB Data Logging to Processing 4 GUI | ✅ Completed |
+| Data Storage and CSV Export | ✅ Completed  |
+| Processing 4 GUI (Monitoring & Logging) | ⚙️ In Progress |
+|  PCB Design with Improved Measurement Stability  | ⚙️ In Progress |
+
+
+
+
 ## 🔄 Control Loop
 <p align="center">
 <img src="docs/esquema control temp.png" alt="Diagrama sistema" width="500">
@@ -124,8 +139,8 @@ Key features:
       <sub>PCB Render - Version 2</sub>
     </td>
     <td align="center">
-      <img src="docs/procesotemp2.png" alt="FPCB Render - Version 3" width="400"><br>
-      <sub>PCB Render - Version 3</sub>
+      <img src="docs/procesotemp2.png" alt="FPCB Render - Version 3" width="500"><br>
+      <sub>PCB Render - Version 3 - Next update </sub>
     </td>
   </tr>
 </table>
