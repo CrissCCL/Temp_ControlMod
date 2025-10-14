@@ -164,7 +164,7 @@ Key features:
       <sub>Device connections</sub>
     </td>
     <td align="center">
-      <img src="docs/setup_completo.jpg" alt="Foto del prototipo" width="450"><br>
+      <img src="docs/setup_completo.jpg" alt="Foto del prototipo" width="400"><br>
       <sub>Complete setup</sub>
     </td>
   </tr>
