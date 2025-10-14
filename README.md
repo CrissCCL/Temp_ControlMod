@@ -27,6 +27,15 @@ It provides a simple and practical platform for learning control theory in a lab
 > 💻 The project now features a Processing 4 graphical interface that replaces the previous MATLAB-based monitoring, data recording and data logging system.  
 > 🔧 This new GUI allows real-time temperature monitoring and data recording, alongside the ongoing development of a custom PCB to improve measurement stability and reduce signal noise.
 
+## ⚙️ System Description
+- **Controller:** Arduino Uno  
+- **Sensor:** TMP36 analog temperature sensor  
+- **Actuator:** TIP31C transistor controlling a heating element  
+- **Control Strategy:** Digital PI temperature regulation  
+- **Sampling period:** 0.1 seconds  
+- **Data transmission:** Serial communication for data logging and Processing 4 GUI monitoring  
+- **PCB:** Custom-designed board for power and measurement stability  
+
 
 ## 🔄 Control Loop
 <p align="center">
