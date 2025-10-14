@@ -149,7 +149,7 @@ Key features:
       <sub>PCB Render - Version 2</sub>
     </td>
     <td align="center">
-      <img src="docs/procesotemp2.png" alt="PCB Render - Version 3" width="550"><br>
+      <img src="docs/procesotemp2.png" alt="PCB Render - Version 3" width="500"><br>
       <sub>PCB Render - Version 3 - Next update </sub>
     </td>
   </tr>
@@ -164,7 +164,7 @@ Key features:
       <sub>Device connections</sub>
     </td>
     <td align="center">
-      <img src="docs/setup_completo.jpg" alt="Foto del prototipo" width="350"><br>
+      <img src="docs/setup_completo.jpg" alt="Foto del prototipo" width="550"><br>
       <sub>Complete setup</sub>
     </td>
   </tr>
