@@ -28,7 +28,7 @@ It provides a simple and practical platform for learning control theory in a lab
 > 🔧 This new GUI allows real-time temperature monitoring and data recording, alongside the ongoing development of a custom PCB to improve measurement stability and reduce signal noise.
 
 ## ⚙️ System Description
-- **Controller:** Arduino Uno  
+- **Controller:** Arduino Leonardo or Mega  
 - **Sensor:** TMP36 analog temperature sensor  
 - **Actuator:** TIP31C transistor controlling a heating element  
 - **Control Strategy:** Digital PI temperature regulation  
