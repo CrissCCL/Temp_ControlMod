@@ -145,11 +145,11 @@ Key features:
 <table>
   <tr>
     <td align="center">
-      <img src="docs/procesotemp.png" alt="PCB Render - Version 2" width="550">
+      <img src="docs/procesotemp.png" alt="PCB Render - Version 2" width="550"><br>
       <sub>PCB Render - Version 2</sub>
     </td>
     <td align="center">
-      <img src="docs/procesotemp2.png" alt="FPCB Render - Version 3" width="600"><br>
+      <img src="docs/procesotemp2.png" alt="PCB Render - Version 3" width="600"><br>
       <sub>PCB Render - Version 3 - Next update </sub>
     </td>
   </tr>
