@@ -149,7 +149,7 @@ Key features:
       <sub>PCB Render - Version 2</sub>
     </td>
     <td align="center">
-      <img src="docs/procesotemp2.png" alt="PCB Render - Version 3" width="600"><br>
+      <img src="docs/procesotemp2.png" alt="PCB Render - Version 3" width="550"><br>
       <sub>PCB Render - Version 3 - Next update </sub>
     </td>
   </tr>
