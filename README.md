@@ -21,8 +21,8 @@ It provides a simple and practical platform for learning control theory in a lab
 | PID Control Implementation | ✅ Completed |
 | Migration from MATLAB Data Logging to Processing 4 GUI | ✅ Completed |
 | Data Storage and CSV Export | ✅ Completed  |
-| Processing 4 GUI (Monitoring & Logging) | ⚙️ In Progress |
-|  PCB Design with Improved Measurement Stability  | ⚙️ In Progress |
+| Processing 4 GUI (Monitoring & Logging) | ✅ Completed |
+|  PCB Design with Improved Measurement Stability  | ✅ Completed |
 
 > 💻 The project now features a Processing 4 graphical interface that replaces the previous MATLAB-based monitoring, data recording and data logging system.  
 > 🔧 This new GUI allows real-time temperature monitoring and data recording, alongside the ongoing development of a custom PCB to improve measurement stability and reduce signal noise.
