@@ -157,12 +157,12 @@ Key features:
 
 ## ⚡ Physical Prototype
 
-New version Prototype is tested,
+The updated PCB and system assembly have been tested successfully.  
+The following image shows the complete setup of the **new prototype version**:
 
 <p align="center">
-<img src="docs/armado2.jpg" alt="Complete setup NEW VERSION" width="400">
+  <img src="docs/armado2.jpg" alt="Complete Prototype Setup - Version 3" width="400">
 </p>
-
 
 <table>
   <tr>
