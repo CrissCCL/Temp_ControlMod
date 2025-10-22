@@ -165,6 +165,8 @@ The following image shows the complete setup of the **new prototype version**:
   <img src="docs/armado2.jpg" alt="Complete Prototype Setup - Version 3" width="400">
 </p>
 
+The following images shows the complete setup of the **previus prototype version**:
+
 <table>
   <tr>
     <td align="center">
