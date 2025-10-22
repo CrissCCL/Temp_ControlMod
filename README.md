@@ -150,12 +150,17 @@ Key features:
     </td>
     <td align="center">
       <img src="docs/procesotemp2.png" alt="PCB Render - Version 3" width="500"><br>
-      <sub>PCB Render - Version 3 - Next update </sub>
+      <sub>PCB Render - Version 3 - NEW VERSION </sub>
     </td>
   </tr>
 </table>
 
 ## ⚡ Physical Prototype
+
+<p align="center">
+<img src="docs/armado2.jpg" alt="Complete setup NEW VERSION" width="500">
+</p>
+
 
 <table>
   <tr>
