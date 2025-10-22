@@ -145,17 +145,18 @@ Key features:
 <table>
   <tr>
     <td align="center">
-      <img src="docs/procesotemp.png" alt="PCB Render - Version 2" width="550"><br>
-      <sub>PCB Render - Version 2</sub>
-    </td>
-    <td align="center">
       <img src="docs/procesotemp2.png" alt="PCB Render - Version 3" width="500"><br>
       <sub>PCB Render - Version 3 - NEW VERSION </sub>
+    </td>
+    <td align="center">
+        <img src="docs/procesotemp.png" alt="PCB Render - Version 2" width="550"><br>
+      <sub>PCB Render - Version 2</sub>
     </td>
   </tr>
 </table>
 
 ## ⚡ Physical Prototype
+New version Prototype is tested,
 
 <p align="center">
 <img src="docs/armado2.jpg" alt="Complete setup NEW VERSION" width="500">
