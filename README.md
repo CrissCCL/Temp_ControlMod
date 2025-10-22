@@ -150,7 +150,7 @@ Key features:
     </td>
     <td align="center">
         <img src="docs/procesotemp.png" alt="PCB Render - Version 2" width="550"><br>
-      <sub>PCB Render - Version 2</sub>
+      <sub>PCB Render - Version 2- OLDER VERSION </sub>
     </td>
   </tr>
 </table>
