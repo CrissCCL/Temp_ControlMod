@@ -156,10 +156,11 @@ Key features:
 </table>
 
 ## ⚡ Physical Prototype
+
 New version Prototype is tested,
 
 <p align="center">
-<img src="docs/armado2.jpg" alt="Complete setup NEW VERSION" width="500">
+<img src="docs/armado2.jpg" alt="Complete setup NEW VERSION" width="400">
 </p>
 
 
