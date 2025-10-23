@@ -158,8 +158,6 @@ To address this, the following hardware changes were implemented according to TM
 
 No changes were made to the controller firmware or sensor type — only the PCB-level conditioning was improved.
 
----
-
 ### 📊 Comparative Experimental Results
 
 | Version | Condition | Plot |
