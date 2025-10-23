@@ -141,6 +141,36 @@ Key features:
 > ⚠️ **Status:** Work In Progress — the GUI is being actively developed and will be added to the repository once sufficiently stable.
 
 
+## 📉 Measurement Stability Improvement — PCB v2 vs PCB v3
+
+The new PCB revision focused on improving the **temperature signal stability** without changing the control algorithm.
+
+### 🔧 Issues Observed in PCB v2
+In the previous revision, the temperature reading from the TMP36 sensor showed perturbations during heater actuation by the TIP31C transistor.  
+This was mainly due to lack of proper analog stabilization near the sensor.
+
+### ✅ Modifications Introduced in PCB v3
+To address this, the following hardware changes were implemented according to TMP36 manufacturer guidelines:
+
+- ✔ **Decoupling capacitor added** close to TMP36 power pins
+- ✔ **Analog conditioning resistors changed to SMD**
+- ✔ **All related passive components migrated to SMD footprint** to minimize parasitics and noise pickup
+
+No changes were made to the controller firmware or sensor type — only the PCB-level conditioning was improved.
+
+---
+
+### 📊 Comparative Experimental Results
+
+| Version | Condition | Plot |
+|--------|------------|------|
+| **PCB v2 (Old)** | Visible ripple & switching noise on temperature signal | <img src="docs/plot_v2_noise.png" width="450"> |
+| **PCB v3 (New)** | Stable and smooth measurement — disturbances eliminated | <img src="docs/plot_v3_clean.png" width="450"> |
+
+> ✅ The addition of the capacitor and SMD passives significantly reduced noise, improving the quality of temperature measurements and the overall stability of the closed-loop response.
+
+
+
 ## 🖼️ Render 3D PCB 
 
 <table>
