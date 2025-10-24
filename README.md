@@ -39,7 +39,7 @@ It provides a simple and practical platform for learning control theory in a lab
 ## 🔄 Control Loop
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/2be660a8-e147-49ff-a478-f429ec9aacf0" alt="Diagrama sistema" width="500">
+<img src="https://github.com/user-attachments/assets/af323e33-f114-40ee-a15d-8e0bd7f2776f" alt="Diagrama sistema" width="500">
 </p>
 
 ### Controlled Variables
