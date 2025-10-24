@@ -161,8 +161,8 @@ No changes were made to the controller firmware or sensor type — only the PCB-
 
 | Version | Condition | Plot |
 |--------|------------|------|
-| **PCB v2 (Old)** | Visible ripple & switching noise on temperature signal | <img src="https://github.com/user-attachments/assets/3ed6fd51-2adb-488d-b22b-0521f7768437" width="500"> |
-| **PCB v3 (New)** | Stable and smooth measurement — disturbances eliminated | <img src="https://github.com/user-attachments/assets/dc860728-dc21-43cf-b59e-123ecb7ae722" width="500"> |
+| **PCB v2 (Old)** | Visible ripple & switching noise on temperature signal | <img src="https://github.com/user-attachments/assets/3ed6fd51-2adb-488d-b22b-0521f7768437" width="5600"> |
+| **PCB v3 (New)** | Stable and smooth measurement — disturbances eliminated | <img src="https://github.com/user-attachments/assets/dc860728-dc21-43cf-b59e-123ecb7ae722" width="600"> |
 
 > ✅ The addition of the capacitor and SMD passives significantly reduced noise, improving the quality of temperature measurements and the overall stability of the closed-loop response.
 
