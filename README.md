@@ -40,7 +40,7 @@ It provides a simple and practical platform for learning control theory in a lab
 
 ## 🔄 Control Loop
 <p align="center">
-<img src="docs/esquema control temp.png" alt="Diagrama sistema" width="500">
+<img src="docs/esquema_control_temp.png" alt="Diagrama sistema" width="500">
 </p>
 
 ### Controlled Variables
