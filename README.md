@@ -40,7 +40,7 @@ It provides a simple and practical platform for learning control theory in a lab
 
 ## 🔄 Control Loop
 <p align="center">
-<img src="docs/esquema_control_temp.png" alt="Diagrama sistema" width="500">
+<img src="https://raw.githubusercontent.com/CrissCCL/Temp_ControlMod/main/docs/esquema_control_temp.png" alt="Diagrama sistema" width="500">
 </p>
 
 ### Controlled Variables
@@ -118,7 +118,7 @@ Where:
 ### 🔹 Experimental Plots  
 
 <p align="center">
-<img src="docs/controlSim_Exp2.png" alt="ARX vs Experimental Comparison (Temperature)" width="500">
+<img src="https://raw.githubusercontent.com/CrissCCL/Temp_ControlMod/main/docs/controlSim_Exp2.png" alt="ARX vs Experimental Comparison (Temperature)" width="500">
 </p>
 
 ## 🖥️ GUI — Monitoring and Data Logging
@@ -127,7 +127,7 @@ The graphical user interface (GUI) shown in the photograph is developed using **
 It is designed **only for monitoring** the temperature module in real time and for **recording experimental data**.  
 
 <p align="center">
-<img src="docs/GUI.jpg" alt="GUI preview" width="500">
+<img src="https://raw.githubusercontent.com/CrissCCL/Temp_ControlMod/main/docs/GUI.jpg" alt="GUI preview" width="500">
 </p>
 
 Key features:
@@ -162,8 +162,8 @@ No changes were made to the controller firmware or sensor type — only the PCB-
 
 | Version | Condition | Plot |
 |--------|------------|------|
-| **PCB v2 (Old)** | Visible ripple & switching noise on temperature signal | <img src="docs/plot_v2_noise.png" width="450"> |
-| **PCB v3 (New)** | Stable and smooth measurement — disturbances eliminated | <img src="docs/plot_v3_clean.png" width="450"> |
+| **PCB v2 (Old)** | Visible ripple & switching noise on temperature signal | <img src="https://raw.githubusercontent.com/CrissCCL/Temp_ControlMod/main/docs/plot_v2_noise.png" width="450"> |
+| **PCB v3 (New)** | Stable and smooth measurement — disturbances eliminated | <img src="https://raw.githubusercontent.com/CrissCCL/Temp_ControlMod/main/docs/plot_v3_clean.png" width="450"> |
 
 > ✅ The addition of the capacitor and SMD passives significantly reduced noise, improving the quality of temperature measurements and the overall stability of the closed-loop response.
 
@@ -174,11 +174,11 @@ No changes were made to the controller firmware or sensor type — only the PCB-
 <table>
   <tr>
     <td align="center">
-      <img src="docs/procesotemp2.png" alt="PCB Render - Version 3" width="500"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Temp_ControlMod/main/docs/procesotemp2.png" alt="PCB Render - Version 3" width="500"><br>
       <sub>PCB Render - Version 3 - NEW VERSION </sub>
     </td>
     <td align="center">
-        <img src="docs/procesotemp.png" alt="PCB Render - Version 2" width="550"><br>
+        <img src="https://raw.githubusercontent.com/CrissCCL/Temp_ControlMod/main/docs/procesotemp.png" alt="PCB Render - Version 2" width="550"><br>
       <sub>PCB Render - Version 2- OLDER VERSION </sub>
     </td>
   </tr>
@@ -190,7 +190,7 @@ The updated PCB and system assembly have been tested successfully.
 The following image shows the complete setup of the **new prototype version**:
 
 <p align="center">
-  <img src="docs/armado2.jpg" alt="Complete Prototype Setup - Version 3" width="400">
+  <img src="https://raw.githubusercontent.com/CrissCCL/Temp_ControlMod/main/docs/armado2.jpg" alt="Complete Prototype Setup - Version 3" width="400">
 </p>
 
 The following images shows the complete setup of the **previus prototype version**:
@@ -198,11 +198,11 @@ The following images shows the complete setup of the **previus prototype version
 <table>
   <tr>
     <td align="center">
-      <img src="docs/armado.jpg" alt="Foto del prototipo" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Temp_ControlMod/main/docs/armado.jpg" alt="Foto del prototipo" width="400"><br>
       <sub>Device connections</sub>
     </td>
     <td align="center">
-      <img src="docs/setup_completo.jpg" alt="Foto del prototipo" width="400"><br>
+      <img src="https://raw.githubusercontent.com/CrissCCL/Temp_ControlMod/main/docs/setup_completo.jpg" alt="Foto del prototipo" width="400"><br>
       <sub>Complete setup</sub>
     </td>
   </tr>
