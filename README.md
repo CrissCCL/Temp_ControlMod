@@ -47,6 +47,12 @@ It provides a simple and practical platform for learning control theory in a lab
 
 ## 📐 Digital PID Control
 
+The PID controllers implemented in this project are **incremental (velocity form)** and use **trapezoidal integration** for the integral term.  
+This ensures:
+- Accurate discrete-time implementation suitable for microcontrollers.
+- Consistency between simulation and embedded hardware behavior.
+- Avoidance of integral windup when combined with actuator saturation or anti-windup mechanisms.
+
 The Module uses a discrete PI controller implemented on a Arduino microcontroller.  
 The control law in the digital domain is expressed as:
 
