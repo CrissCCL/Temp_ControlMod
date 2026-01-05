@@ -220,5 +220,10 @@ For additional tutorials and examples related to digital control simulations, vi
 - [Digital Control Simulation — First Order System + Saturation](https://github.com/CrissCCL/Digital_ControlSim)
 - [Digital Control Simulation — ARX Model + Saturation](https://github.com/CrissCCL/Digital_ControlSimARX)
 
+## 🔗 Resources
+▶️ YouTube Video
+
+ Support me on Patreon [https://www.patreon.com/c/CrissCCL](https://www.patreon.com/c/CrissCCL)
+
 ## 📜 License
 MIT License  
