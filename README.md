@@ -12,6 +12,9 @@ It provides a simple and practical platform for learning control theory in a lab
 - `/Hardware` → schematic, PCB, Gerbers.
 - `/control_temp_LC` → C code for Arduino.
 
+## 🌐 YouTube
+📺 [Part 1 [ES]](https://youtu.be/2oqOS14WYN8?si=qGYRzMjagaLqCLr8)
+
 ## 📊 Project Status
 
 | Component | Status |
@@ -220,9 +223,7 @@ For additional tutorials and examples related to digital control simulations, vi
 - [Digital Control Simulation — First Order System + Saturation](https://github.com/CrissCCL/Digital_ControlSim)
 - [Digital Control Simulation — ARX Model + Saturation](https://github.com/CrissCCL/Digital_ControlSimARX)
 
-## 🔗 Resources
-▶️ YouTube Video
-
+## 🤝 Support project
  Support me on Patreon [https://www.patreon.com/c/CrissCCL](https://www.patreon.com/c/CrissCCL)
 
 ## 📜 License
