@@ -8,7 +8,7 @@ It provides a simple and practical platform for learning control theory in a lab
 > ⚠️ **Note:** This project is currently under updates. Features and hardware are subject to change.
 
 ## 📂 Contents
-- `/HardwareV2` → New Version schematic, Gerbers.
+- `/HardwareV2` → New Version schematic, Gerbers and BOM+POS for PCBA.
 - `/Hardware` → schematic, PCB, Gerbers.
 - `/control_temp_LC` → C code for Arduino.
 
