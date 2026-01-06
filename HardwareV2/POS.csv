@@ -1,0 +1,8 @@
+Designator;Val;Package;Mid X;Mid Y;Rotation;Layer
+C1;C;C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;149.125;-67.8;0;top
+D1;LED;LED_D5.0mm;135.382;-66.548;180;top
+IC1;TMP36GT9;TMP36GT9;147.65;-64.225;90;top
+J1;Conn_01x08_Socket;PinHeader_1x08_P2.54mm_Vertical;149.85;-75.225;-90;top
+Q1;TIP31C;TO-220-3_Vertical;146.25;-59.125;0;top
+R1;470;R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;138.275;-60.275;0;top
+R2;470;R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;128.8;-71.45;0;top
