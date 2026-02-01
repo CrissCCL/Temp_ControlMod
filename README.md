@@ -1,5 +1,12 @@
 # 🔥 Temperature Control Module
 
+![Embedded](https://img.shields.io/badge/Embedded-Teensy-blue)
+![C++](https://img.shields.io/badge/C++-Firmware-green)
+![Control](https://img.shields.io/badge/Control-PI%2FPID-orange)
+![Hardware](https://img.shields.io/badge/Hardware-Real--Time-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 ## 📖 Overview
 This low-cost module was designed and built to perform hands-on experiments in Digital Control. The system is controlled using an Arduino Leonardo, heat is modulated with a TIP31C transistor, and temperature is measured using a TMP36 sensor.  
 
