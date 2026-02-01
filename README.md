@@ -215,6 +215,28 @@ The following images shows the complete setup of the **previus prototype version
   </tr>
 </table>
 
+
+## 🔗 ROS 2 Integration
+
+This embedded temperature control module can be connected to a ROS 2 system
+for supervision, telemetry streaming, remote setpoint control and online metrics.
+
+👉 **ROS 2 Bridge Repository:**  
+[Ros integration](https://github.com/CrissCCL/Temp_ControlMod_ROS_integration)
+
+The ROS integration provides:
+
+- UART ↔ ROS 2 bridge
+- Real-time topics (/temp, /u, /ref)
+- Remote setpoint commands
+- Online control performance metrics (IAE, ISE, ITAE, etc.)
+- rosbag logging and visualization tools
+
+This separation keeps:
+- this repo → embedded/firmware/control
+- ROS repo → middleware/supervision/integration
+
+
 ## 🔗 Related Repositories
 
 For additional tutorials and examples related to digital control simulations, visit:
