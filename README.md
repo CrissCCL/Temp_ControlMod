@@ -1,11 +1,22 @@
 # 🔥 Temperature Control Module
 ### From System Identification to Real-Time Embedded Control
 
+Engineering-grade closed-loop temperature control platform integrating ARX system identification, digital PI controller design, deterministic real-time implementation, and experimental validation using Arduino Leonardo.
+
 ![Platform](https://img.shields.io/badge/Platform-Arduino%20Leonardo-blue)
 ![Language](https://img.shields.io/badge/Language-C%2FC++-green)
 ![Control](https://img.shields.io/badge/Control-Digital%20PI-orange)
 ![Modeling](https://img.shields.io/badge/System%20Identification-ARX-purple)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+## 🔎 Why This Project Matters
+
+This platform demonstrates the complete professional workflow used in real-world control system development:
+
+Data acquisition → System identification → Controller design → Discretization → Embedded implementation → Experimental validation.
+
+It bridges control theory with physical hardware under real sampling, saturation, and noise constraints.
+
 
 ## 📖 Overview
 This low-cost module was designed and built to perform hands-on experiments in Digital Control. The system is controlled using an Arduino Leonardo, heat is modulated with a TIP31C transistor, and temperature is measured using a TMP36 sensor.  
