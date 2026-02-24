@@ -1,4 +1,5 @@
 # 🔥 Temperature Control Module
+### From System Identification to Real-Time Embedded Control
 
 ![Platform](https://img.shields.io/badge/Platform-Arduino%20Leonardo-blue)
 ![Language](https://img.shields.io/badge/Language-C%2FC++-green)
