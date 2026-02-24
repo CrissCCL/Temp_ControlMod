@@ -1,18 +1,15 @@
 # 🔥 Temperature Control Module
 
-![Embedded](https://img.shields.io/badge/Embedded-Teensy-blue)
-![C++](https://img.shields.io/badge/C++-Firmware-green)
-![Control](https://img.shields.io/badge/Control-PI%2FPID-orange)
-![Hardware](https://img.shields.io/badge/Hardware-Real--Time-lightgrey)
+![Platform](https://img.shields.io/badge/Platform-Arduino%20Leonardo-blue)
+![Language](https://img.shields.io/badge/Language-C%2FC++-green)
+![Control](https://img.shields.io/badge/Control-Digital%20PI-orange)
+![Modeling](https://img.shields.io/badge/System%20Identification-ARX-purple)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 
 ## 📖 Overview
 This low-cost module was designed and built to perform hands-on experiments in Digital Control. The system is controlled using an Arduino Leonardo, heat is modulated with a TIP31C transistor, and temperature is measured using a TMP36 sensor.  
 
 It provides a simple and practical platform for learning control theory in a laboratory environment.
-
-> ⚠️ **Note:** This project is currently under updates. Features and hardware are subject to change.
 
 ## 📂 Contents
 - `/HardwareV2` → New Version schematic, Gerbers and BOM+POS for PCBA.
@@ -207,7 +204,7 @@ The following image shows the complete setup of the **new prototype version**:
   <img src="https://github.com/user-attachments/assets/3754cb93-b701-40c8-a1e7-902c2dc6c7cc" alt="Complete Prototype Setup - Version 3" width="400">
 </p>
 
-The following images shows the complete setup of the **previus prototype version**:
+The following images show the complete setup of the **previous prototype version**:
 
 <table>
   <tr>
