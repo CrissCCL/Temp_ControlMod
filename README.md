@@ -1,9 +1,8 @@
 # 🔥 Temperature Control Module
 ### From System Identification to Real-Time Embedded Control
 
-🚀 Featured on Arduino.cc  
 🚀 **Featured by Arduino**  
-[Read the official article →](https://blog.arduino.cc/2026/02/26/from-theory-to-hardware-cristian-castro-lagos-on-control-engineering-with-arduino/)
+[Read the official article](https://blog.arduino.cc/2026/02/26/from-theory-to-hardware-cristian-castro-lagos-on-control-engineering-with-arduino/)
 
 
 Engineering-grade closed-loop temperature control platform integrating ARX system identification, digital PI controller design, deterministic real-time implementation, and experimental validation using Arduino Leonardo.
